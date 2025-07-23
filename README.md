@@ -46,7 +46,7 @@ You can tune these parameters to match your own prototype or simulation environm
 
 ## Demo
 
-![ASV Demo](assets/autonomous-asv-test-pool.gif)
+![ASV Demo](assets/autonomous-asv-at-the-test-pool.gif)
 
 > A short simulation video showing the ASV navigating autonomously in the test pool.
 
